@@ -1,0 +1,10 @@
+.bg-info {
+    background-color: rgb(209, 94, 90) !important;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 35px;
+}

@@ -1,0 +1,17 @@
+.nav {
+    background-color: rgb(209, 94, 90) !important;
+    padding: 5px 0;
+    text-align: center
+}
+
+.nav-link {
+    color: white;
+    font-size: 2.2em;
+    font-weight: bold;
+    font-family: sans-serif
+}
+
+.navbar-text {
+    color: white;
+    font-size: 2.2em;
+}
